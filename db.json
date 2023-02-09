@@ -1340,6 +1340,24 @@
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/150.png",
         "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/150.png"
       }
+    },
+    {
+      "name": "dragon",
+      "hp": "100",
+      "sprites": {
+        "front": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.reddit.com%2Fr%2Fbeadsprites%2Fcomments%2Fuxn37q%2Fcompilation_of_pok%25C3%25A9mon_sprites_gen_17_numbered%2F&psig=AOvVaw27tRO0gZoTqTaoUIR4XGjl&ust=1675990854885000&source=images&cd=vfe&ved=0CA4QjRxqFwoTCJC1-c6eh_0CFQAAAAAdAAAAABAE",
+        "back": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fforums.pokemmo.com%2Findex.php%3F%2Ftopic%2F109038-mod-hd-battle-sprites-front-and-back%2F&psig=AOvVaw27tRO0gZoTqTaoUIR4XGjl&ust=1675990854885000&source=images&cd=vfe&ved=0CA4QjRxqFwoTCJC1-c6eh_0CFQAAAAAdAAAAABAJ"
+      },
+      "id": 151
+    },
+    {
+      "name": "toy",
+      "hp": "toy",
+      "sprites": {
+        "front": "toy",
+        "back": "toy"
+      },
+      "id": 152
     }
   ]
 }
